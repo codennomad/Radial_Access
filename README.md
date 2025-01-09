@@ -1,6 +1,6 @@
 # Radial Menu com Tkinter
 
-![Funcionamento do Menu](https://github.com/seu-usuario/seu-repositorio/raw/main/demo.gif)
+![Radial_Access - gif (1)](https://github.com/user-attachments/assets/a14d9d9e-9e36-478d-9112-6eef76912848)
 
 Este é um projeto de um menu radial interativo criado com **Tkinter** em Python. O menu radial é ideal para acessar rapidamente comandos ou programas pré-configurados de forma visual e intuitiva. 
 
@@ -37,8 +37,8 @@ pip install keyboard mouse
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/codennomad/Radial_Access.git
+   
    ```
 
 2. Configure o arquivo `radial_config.json` com as opções do menu radial. Exemplo de configuração:
@@ -92,7 +92,7 @@ pip install keyboard mouse
 
 Veja o menu radial em ação:
 
-![Demo](https://github.com/seu-usuario/seu-repositorio/raw/main/demo.gif)
+![Radial_Access - gif (1)](https://github.com/user-attachments/assets/a14d9d9e-9e36-478d-9112-6eef76912848)
 
 ---
 
