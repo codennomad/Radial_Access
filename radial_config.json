@@ -1,0 +1,44 @@
+{
+    "opcoes": [
+        {
+            "nome": "Calculator",
+            "tipo": "processo",
+            "comando": "C:\\Windows\\System32\\calc.exe"
+        },
+        {
+            "nome": "Snipping Tool",
+            "tipo": "processo",
+            "comando": "C:\\Windows\\System32\\SnippingTool.exe"
+        },
+        {
+            "nome": "Notepad",
+            "tipo": "processo",
+            "comando": "C:\\Windows\\System32\\notepad.exe"
+        },
+        {
+            "nome": "VSCode",
+            "tipo": "processo",
+            "comando": "C:\\Users\\Gabriel\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+        },
+        {
+            "nome": "Discord",
+            "tipo": "processo",
+            "comando": "C:\\Users\\Gabriel\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe"
+        },
+        {
+            "nome": "Explorer",
+            "tipo": "processo",
+            "comando": "C:\\Windows\\explorer.exe"
+        },
+        {
+            "nome": "WhatsApp",
+            "tipo": "processo",
+            "comando": "C:\\Users\\Gabriel\\AppData\\Local\\WhatsApp\\WhatsApp.exe"
+        },
+        {
+            "nome": "Opera GX",
+            "tipo": "processo",
+            "comando": "C:\\Users\\Gabriel\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Navegador Opera GX.exe"
+        }
+    ]
+}
