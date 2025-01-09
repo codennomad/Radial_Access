@@ -123,4 +123,4 @@ Para dúvidas ou sugestões, entre em contato:
 
 ---
 
-Feito com 💖 por [Seu Nome].
+Feito com 💖 por Gabriel.
